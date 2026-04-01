@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92c9fa7f-a669-4c78-92b7-ecb1d2c18f03" name="Changes" comment="" />
+    <list default="true" id="92c9fa7f-a669-4c78-92b7-ecb1d2c18f03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/UseCase4TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UseCase1TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseCase1TrainConsistMgmt.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
