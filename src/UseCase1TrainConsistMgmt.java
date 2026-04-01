@@ -13,5 +13,6 @@ public class UseCase1TrainConsistMgmt {
         UseCase2TrainConsistMgmt.run();
         UseCase3TrainConsistMgmt.run();
         UseCase4TrainConsistMgmt.run();
+        UseCase5TrainConsistMgmt.run();
     }
 }
