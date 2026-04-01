@@ -11,5 +11,6 @@ public class UseCase1TrainConsistMgmt {
         System.out.println("Initial number of bogies: " + trainConsist.size());
         System.out.println("Current train consist: " + trainConsist);
         UseCase2TrainConsistMgmt.run();
+        UseCase3TrainConsistMgmt.run();
     }
 }
