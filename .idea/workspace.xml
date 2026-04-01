@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92c9fa7f-a669-4c78-92b7-ecb1d2c18f03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCase5TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UseCase1TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseCase1TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UseCase6TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseCase6TrainConsistMgmt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,5 +59,16 @@
       <workItem from="1775011375700" duration="7000" />
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
