@@ -24,11 +24,11 @@ public class UseCase9TrainConsistMgmt {
         // Create list of bogies
         List<Bogie> bogies = new ArrayList<>();
 
-        bogies.add(new Bogie("Sleeper", "Passenger", 72));
-        bogies.add(new Bogie("AC Chair", "Passenger", 56));
-        bogies.add(new Bogie("General", "Passenger", 90));
-        bogies.add(new Bogie("Cargo1", "Goods", 120));
-        bogies.add(new Bogie("Cargo2", "Goods", 150));
+        bogies.add(new Bogie(72));
+        bogies.add(new Bogie(56));
+        bogies.add(new Bogie(90));
+        bogies.add(new Bogie(120));
+        bogies.add(new Bogie(150));
 
         System.out.println("All Bogies:");
         display(bogies);

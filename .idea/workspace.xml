@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92c9fa7f-a669-4c78-92b7-ecb1d2c18f03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/UseCase10TrainConsistMgmt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UseCase7TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseCase7TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UseCase8TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseCase8TrainConsistMgmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UseCase9TrainConsistMgmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UseCase9TrainConsistMgmt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +33,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TrainManagementUC10.executor": "Run",
+    "Application.UseCase10TrainConsistMgmt.executor": "Run",
     "Application.UseCase1TrainConsistMgmt.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
