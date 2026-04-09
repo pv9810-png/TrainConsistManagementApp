@@ -8,7 +8,7 @@ class Bogieeee {
 
     Bogieeee(String id, String type, int capacity) {
         this.id = id;
-        this.type = type;   // ✅ MUST
+        this.type = type;
         this.capacity = capacity;
     }
 }
